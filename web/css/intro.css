@@ -1,0 +1,19 @@
+body{
+    background-color: #404444;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+}
+label{
+    color:white;
+}
+button{
+    margin-top: 4%
+}
